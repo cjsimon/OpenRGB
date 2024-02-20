@@ -38,7 +38,7 @@
       <item row="7" column="1">
        <widget class="QLabel" name="GitlabLinkValue">
         <property name="text">
-         <string>&lt;a href=&quot;https://gitlab.com/CalcProgrammer1/OpenRGB&quot;&gt;https://gitlab.com/CalcProgrammer1/OpenRGB&lt;/a&gt;</string>
+         <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://gitlab.com/CalcProgrammer1/OpenRGB&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt;https://gitlab.com/cjsimon/OpenRGB&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
         </property>
         <property name="textFormat">
          <enum>Qt::RichText</enum>
